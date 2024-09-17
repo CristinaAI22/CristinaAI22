@@ -5,7 +5,7 @@
 
 <h1>Hi 👋, I'm Cristina</h1>
 
-<p>A passionate fullstack developer from Bucharest, Romania</p>
+<p>A passionate fullstack developer from Bucharest, Romania. I am looking for collaborations to grow my skill set and expand my knowledge </p>
 
 <h2>🛠 Skills</h2>
 <p>
@@ -87,3 +87,4 @@
 </a>
 
 </p>
+
